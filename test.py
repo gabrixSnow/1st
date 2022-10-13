@@ -1,0 +1,1 @@
+range.count (0, 6)
